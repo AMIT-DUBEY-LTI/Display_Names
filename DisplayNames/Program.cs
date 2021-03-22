@@ -10,7 +10,11 @@ namespace DisplayNames
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is a Group Project: Display_names");
             Console.WriteLine("My name is Amit Dubey");
+            Console.WriteLine("My name is Aniesha Razdan");
+
+            Console.ReadLine();
         }
     }
 }
