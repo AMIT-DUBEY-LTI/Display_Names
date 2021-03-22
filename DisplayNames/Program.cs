@@ -12,9 +12,15 @@ namespace DisplayNames
         {
             Console.WriteLine("This is a Group Project: Display_names");
             Console.WriteLine("My name is Amit Dubey");
+<<<<<<< HEAD
             Console.WriteLine("My name is Aniesha Razdan");
 
-            Console.ReadLine();
+           
+=======
+            Console.WriteLine("My name is Ankur Rai");
+            Console.ReadKey();
+
+>>>>>>> ae26bdd82d3cc408d665350a0239ce8480f921ae
         }
     }
 }
