@@ -11,6 +11,9 @@ namespace DisplayNames
         static void Main(string[] args)
         {
             Console.WriteLine("My name is Amit Dubey");
+            Console.WriteLine("My name is Ankur Rai");
+            Console.ReadKey();
+
         }
     }
 }
