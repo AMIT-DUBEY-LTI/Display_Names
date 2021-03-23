@@ -15,9 +15,6 @@ namespace DisplayNames
             Console.WriteLine("Hope you all are fine");
             Console.WriteLine("My name is Ankur Rai");
             Console.WriteLine("My name is Azharudeen S");
-            Console.WriteLine("My name is Azhar S");
-            Console.ReadKey();
-
             Console.WriteLine("My name is Aniesha Razdan");
 
             Console.ReadLine();
