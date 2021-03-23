@@ -10,7 +10,9 @@ namespace DisplayNames
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Greetings!!, Welcome to JenKins");
             Console.WriteLine("This is Day 2 of Jenkins Project");
+
         }
     }
 }
